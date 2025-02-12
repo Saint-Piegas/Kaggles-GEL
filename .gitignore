@@ -1,2 +1,4 @@
 #Ignorar a pasta python
 SpaceshipTitanic/python/SpaceshipTitanic/
+SpaceshipTitanic/Data/test.csv
+SpaceshipTitanic/Data/train.csv
