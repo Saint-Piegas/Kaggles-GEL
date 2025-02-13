@@ -1,4 +1,5 @@
-#Ignorar a pasta python
 SpaceshipTitanic/python/SpaceshipTitanic/
 SpaceshipTitanic/Data/test.csv
 SpaceshipTitanic/Data/train.csv
+SpaceshipTitanic/Data/sample_submission.csv
+kaggle.json
